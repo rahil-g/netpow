@@ -14,8 +14,8 @@ $ sudo apt-get update; sudo apt-get install python3-pip -y; sudo -H pip3 install
 
 Install NetPow from the source code -
 ```
-$ git clone https://github.com/rahil-g/gpf.git
-$ cd gpf/
+$ git clone https://github.com/rahil-g/netpow.git
+$ cd netpow/
 ```
 
 Install the required Linux packages from the packages.txt file -
