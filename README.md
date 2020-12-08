@@ -32,6 +32,8 @@ Start the SNMP agents simulation using the sim_snmp.py app -
 ```
 $ python3 sim_snmp.py 3
 ```
+> This step is not required if using network devices that support EMAN MIBs.
+
 More options can be cheked using -h. The sim_snmp.py app simulates SNMP agents based on simulation data stored in .snmprec files in the data/ directory. The simple plain-text files are in the format OID|TYPE|VALUE format.
 
 >The entity<#>.snmprec files are based on the ENTITY MIB defined in [RFC 6933](https://tools.ietf.org/html/rfc6933) and are used to identify the specific device label and its entPhysicalIndex.
