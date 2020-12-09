@@ -1,6 +1,8 @@
 ## Real-time Network Power monitoring (NetPow)
 A framework for non-intrusive collection of real-time power consumption information from the next generation of networking hardware by employing information models.
 
+![NetPow_Overview](https://github.com/rahil-g/netpow/blob/main/images/Picture1.png)
+
 ### Quick Start
 
 Tested on OS: Ubuntu 16.04.07 LTS
@@ -83,4 +85,4 @@ python3 dynamic_data.py
 Project is: in progress.
 
 ## Contact
-Created by Rahil Gandotra - feel free to contact me!
+Created by [Rahil Gandotra](mailto:rahil.gandotra@colorado.edu) - feel free to contact me!
