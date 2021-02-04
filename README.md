@@ -5,13 +5,13 @@ A framework for non-intrusive collection of real-time power consumption informat
 
 ### Quick Start
 
-Tested on OS: Ubuntu 16.04.07 LTS
+Tested on OS: Ubuntu 18.04.5 LTS
 
 Required packages:
 Python3, 
 Pip3
 ```
-$ sudo apt-get update; sudo apt-get install python3-pip -y; sudo -H pip3 install --upgrade pip
+$ sudo apt-get update; sudo apt-get install python3-pip -y
 ```
 
 Install NetPow from the source code -
